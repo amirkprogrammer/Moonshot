@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		995C3E8E2B893D8B00B402FE /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 995C3E8D2B893D8B00B402FE /* MissionView.swift */; };
 		99ABCAFC2B8406380010FEB6 /* MoonshotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99ABCAFB2B8406380010FEB6 /* MoonshotApp.swift */; };
 		99ABCAFE2B8406380010FEB6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99ABCAFD2B8406380010FEB6 /* ContentView.swift */; };
 		99ABCB002B8406390010FEB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99ABCAFF2B8406390010FEB6 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		995C3E8D2B893D8B00B402FE /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 		99ABCAF82B8406380010FEB6 /* Moonshot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Moonshot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99ABCAFB2B8406380010FEB6 /* MoonshotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoonshotApp.swift; sourceTree = "<group>"; };
 		99ABCAFD2B8406380010FEB6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 			children = (
 				99ABCAFB2B8406380010FEB6 /* MoonshotApp.swift */,
 				99ABCAFD2B8406380010FEB6 /* ContentView.swift */,
+				995C3E8D2B893D8B00B402FE /* MissionView.swift */,
 				99ABCB0F2B86C1190010FEB6 /* Astronaut.swift */,
 				99ABCB132B86C7AE0010FEB6 /* Mission.swift */,
 				99ABCB112B86C1C10010FEB6 /* Bundle-Decodable.swift */,
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				995C3E8E2B893D8B00B402FE /* MissionView.swift in Sources */,
 				99ABCB102B86C1190010FEB6 /* Astronaut.swift in Sources */,
 				99ABCB162B87E9670010FEB6 /* Color-Theme.swift in Sources */,
 				99ABCAFE2B8406380010FEB6 /* ContentView.swift in Sources */,
